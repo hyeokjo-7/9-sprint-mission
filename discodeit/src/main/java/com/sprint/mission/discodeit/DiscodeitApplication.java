@@ -29,7 +29,6 @@ import java.util.Optional;
 @SpringBootApplication
 public class DiscodeitApplication {
 	public static void main(String[] args) {
-//살려줘
 		SpringApplication.run(DiscodeitApplication.class, args);
 	}
 }
